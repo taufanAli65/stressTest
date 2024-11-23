@@ -38,17 +38,12 @@ pip install requests aiohttp
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/stress-test-tool.git
+    git clone https://github.com/taufanAli65/stressTest.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd stress-test-tool
+    cd stressTest
     ```
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 ### Login
