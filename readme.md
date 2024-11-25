@@ -48,7 +48,11 @@ pip install requests aiohttp
 
 ### Login
 
-Before performing the stress test, you need to log in to the target server. Update the `config.json` file with your login credentials and target URL.
+Before performing the stress test, you need to log in to the target server. Update the loginUrl variabel with the login url. url variabel with the url u want to spam with get method.
+data = {
+    "username": "",
+    "password": ""
+} // data for login
 
 ### Stress Test
 
